@@ -1,0 +1,10 @@
+body {
+  background-color: bisque;
+  color: purple;
+}
+h1 {
+  font-size: 33px;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
